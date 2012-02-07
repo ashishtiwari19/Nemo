@@ -9,7 +9,7 @@
  
 <script type="text/javascript"><!--
 $(document).ready(function(){ 
-  var data = 
+  var data = cczxz
   { 
     "sales": [ 
       { "firstname" : "John", "lastname" : "Brown" },
